@@ -2,4 +2,4 @@
 
 ## Demo
 
-https://seeren-training.github.io/Angular/ticket-master/www/
+https://AnaisT17.github.io/Ticket-master/Angular-master/ticket-master/www/
