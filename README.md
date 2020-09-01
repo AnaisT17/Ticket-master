@@ -20,3 +20,5 @@ Installation : NodeJs, Angular Material
 - Utilisation des composants, templates, directives
 - Création de formulaires 
 - Requêtage HTTP 
+
+![Image of Ticket Project](https://anaist17.github.io/Ticket-master/ticket-project.png)
