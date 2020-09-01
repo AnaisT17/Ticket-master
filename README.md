@@ -21,4 +21,11 @@ Installation : NodeJs, Angular Material
 - Création de formulaires 
 - Requêtage HTTP 
 
+Il est possible : 
+
+- D'ajouter une personne dans un formulaire
+- D'indiquer son rôle (Test, Back-end, Front-end)
+- Charger la liste
+- Remettre la liste à zéro
+
 ![Image of Ticket Project](https://anaist17.github.io/Ticket-master/ticket-project.png)
